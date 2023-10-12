@@ -20,3 +20,8 @@
 
 > [8. Изучение основных свойств ДПФ с помощью моделирования в  Python/Spyder](https://humble-ballcap-e09.notion.site/8-Python-Spyder-c8f1d4266bd0468caadda311c2e6f812?pvs=25)
 
+## Занятие 5:
+
+> [10. Передача\прием sin() сигнала. Реализация АМ модуляции. PlutoSDR.](https://humble-ballcap-e09.notion.site/10-sin-PlutoSDR-33d96c13fe9142c3bdceb2ede48f7a50?pvs=25)
+
+
