@@ -22,6 +22,13 @@
 
 ## Занятие 5:
 
-> [10. Передача\прием sin() сигнала. Реализация АМ модуляции. PlutoSDR.](https://humble-ballcap-e09.notion.site/10-sin-PlutoSDR-33d96c13fe9142c3bdceb2ede48f7a50?pvs=25)
+> [9. Амплитудная модуляция](https://humble-ballcap-e09.notion.site/9-e47a36000b3944be8c93d32561685ae1?pvs=25)
+
+> [10. Изучение свойств АМ-сигналов с помощью моделирования в Python/Spyder]https://humble-ballcap-e09.notion.site/10-Python-Spyder-6db5b4e2bbc74e098af7297b98508b63?pvs=25)
+
+## Занятие 6:
+
+> [11. Передача/прием sin() сигнала. Реализация АМ модуляции. PlutoSDR.](https://humble-ballcap-e09.notion.site/11-sin-PlutoSDR-33d96c13fe9142c3bdceb2ede48f7a50?pvs=25)
+
 
 
