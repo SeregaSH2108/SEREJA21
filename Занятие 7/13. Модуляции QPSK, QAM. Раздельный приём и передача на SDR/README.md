@@ -18,19 +18,19 @@ q = np.sin(2 * np.pi * t * fc) * 2 ** 14**
 ### Передаваемый сигнал ((`samples = i + 1j * q`)):
 
 <details>
-  <img src = "https://github.com/SeregaSH2108/SEREJA21/blob/main/Занятие%205/Практика%20Калачиков%20А.А/Несущее%20колебание.png">
+  <img src = "https://github.com/SeregaSH2108/SEREJA21/blob/main/Занятие%207/13.%20Модуляции%20QPSK%2C%20QAM.%20Раздельный%20приём%20и%20передача%20на%20SDR/Передаваемый%20сигнал.jpg">
 </details>
 
 ### Принимаемый сигнал:
 
 <details>
-  <img src = "https://github.com/SeregaSH2108/SEREJA21/blob/main/Занятие%205/Практика%20Калачиков%20А.А/Несущее%20колебание.png">
+  <img src = "https://github.com/SeregaSH2108/SEREJA21/blob/main/Занятие%207/13.%20Модуляции%20QPSK%2C%20QAM.%20Раздельный%20приём%20и%20передача%20на%20SDR/Принемаемый%20сигнал.jpg">
 </details>
 
 ### Склейка из 10 принятых:
 
 <details>
-  <img src = "https://github.com/SeregaSH2108/SEREJA21/blob/main/Занятие%205/Практика%20Калачиков%20А.А/Несущее%20колебание.png">
+  <img src = "https://github.com/SeregaSH2108/SEREJA21/blob/main/Занятие%207/13.%20Модуляции%20QPSK%2C%20QAM.%20Раздельный%20приём%20и%20передача%20на%20SDR/склейка%20из%2010%20принятых.jpg">
 </details>
 
 ## Задача 2. Сгенерировать QPSK-модулированный сигнал при помощи одного ADALM PLuto в режиме полного дуплекса.
@@ -51,43 +51,43 @@ q = np.sin(2 * np.pi * t * fc) * 2 ** 14**
 ### Отправляемый сигнал:
 
 <details>
-  <img src = "https://github.com/SeregaSH2108/SEREJA21/blob/main/Занятие%205/Практика%20Калачиков%20А.А/Несущее%20колебание.png">
+  <img src = "https://github.com/SeregaSH2108/SEREJA21/blob/main/Занятие%207/13.%20Модуляции%20QPSK%2C%20QAM.%20Раздельный%20приём%20и%20передача%20на%20SDR/Отправленный%20сигнал.jpg">
 </details>
 
 ### Отправляемая звезда:
 
 <details>
-  <img src = "https://github.com/SeregaSH2108/SEREJA21/blob/main/Занятие%205/Практика%20Калачиков%20А.А/Несущее%20колебание.png">
+  <img src = "https://github.com/SeregaSH2108/SEREJA21/blob/main/Занятие%207/13.%20Модуляции%20QPSK%2C%20QAM.%20Раздельный%20приём%20и%20передача%20на%20SDR/Отправленная%20звезда.jpg">
 </details>
 
 ### Принятый сигнал:
 
 <details>
-  <img src = "https://github.com/SeregaSH2108/SEREJA21/blob/main/Занятие%205/Практика%20Калачиков%20А.А/Несущее%20колебание.png">
+  <img src = "https://github.com/SeregaSH2108/SEREJA21/blob/main/Занятие%207/13.%20Модуляции%20QPSK%2C%20QAM.%20Раздельный%20приём%20и%20передача%20на%20SDR/принятый%20сигнал.jpg">
 </details>
 
 ### Принятая звезда:
 
 <details>
-  <img src = "https://github.com/SeregaSH2108/SEREJA21/blob/main/Занятие%205/Практика%20Калачиков%20А.А/Несущее%20колебание.png">
+  <img src = "https://github.com/SeregaSH2108/SEREJA21/blob/main/Занятие%207/13.%20Модуляции%20QPSK%2C%20QAM.%20Раздельный%20приём%20и%20передача%20на%20SDR/Принятая%20звезда.jpg">
 </details>
 
 ### Спектр принятого сигнала (16 семплов):
 
 <details>
-  <img src = "https://github.com/SeregaSH2108/SEREJA21/blob/main/Занятие%205/Практика%20Калачиков%20А.А/Несущее%20колебание.png">
+  <img src = "https://github.com/SeregaSH2108/SEREJA21/blob/main/Занятие%207/13.%20Модуляции%20QPSK%2C%20QAM.%20Раздельный%20приём%20и%20передача%20на%20SDR/при%2016%20семплах%20узкий%20спектр.jpg">
 </details>
 
 ### Спектр принятого сигнала (2 сэмпла):
 
 <details>
-  <img src = "https://github.com/SeregaSH2108/SEREJA21/blob/main/Занятие%205/Практика%20Калачиков%20А.А/Несущее%20колебание.png">
+  <img src = "https://github.com/SeregaSH2108/SEREJA21/blob/main/Занятие%207/13.%20Модуляции%20QPSK%2C%20QAM.%20Раздельный%20приём%20и%20передача%20на%20SDR/при%202%20сэмплах%20широкий%20спектр.jpg">
 </details>
 
 ### Спектр принятого сигнала (ifftshift) смещенный к центру:
 
 <details>
-  <img src = "https://github.com/SeregaSH2108/SEREJA21/blob/main/Занятие%205/Практика%20Калачиков%20А.А/Несущее%20колебание.png">
+  <img src = "https://github.com/SeregaSH2108/SEREJA21/blob/main/Занятие%207/13.%20Модуляции%20QPSK%2C%20QAM.%20Раздельный%20приём%20и%20передача%20на%20SDR/спектр%20смещенный%20при%20помощи%20ifftshift.jpg">
 </details>
 
 ### Вывод: Чем больше семплов, тем уже спектр, чем меньше сэмплов, тем шире спектр
