@@ -21,10 +21,10 @@ q = np.sin(2 * np.pi * t * fc) * 2 ** 14**
   <img src = "https://github.com/SeregaSH2108/SEREJA21/blob/main/Занятие%207/13.%20Модуляции%20QPSK%2C%20QAM.%20Раздельный%20приём%20и%20передача%20на%20SDR/Передаваемый%20сигнал.jpg">
 </details>
 
-### Принимаемый сигнал:
+### Принятый сигнал:
 
 <details>
-  <img src = "https://github.com/SeregaSH2108/SEREJA21/blob/main/Занятие%207/13.%20Модуляции%20QPSK%2C%20QAM.%20Раздельный%20приём%20и%20передача%20на%20SDR/Принимаемый%20сигнал.jpg">
+  <img src = "https://github.com/SeregaSH2108/SEREJA21/blob/main/Занятие%207/13.%20Модуляции%20QPSK%2C%20QAM.%20Раздельный%20приём%20и%20передача%20на%20SDR/принятый%20сигнал.jpg">
 </details>
 
 ### Склейка из 10 принятых:
@@ -60,10 +60,10 @@ q = np.sin(2 * np.pi * t * fc) * 2 ** 14**
   <img src = "https://github.com/SeregaSH2108/SEREJA21/blob/main/Занятие%207/13.%20Модуляции%20QPSK%2C%20QAM.%20Раздельный%20приём%20и%20передача%20на%20SDR/Отправленная%20звезда.jpg">
 </details>
 
-### Принятый сигнал:
+### Принимаемый сигнал:
 
 <details>
-  <img src = "https://github.com/SeregaSH2108/SEREJA21/blob/main/Занятие%207/13.%20Модуляции%20QPSK%2C%20QAM.%20Раздельный%20приём%20и%20передача%20на%20SDR/принятый%20сигнал.jpg">
+  <img src = "https://github.com/SeregaSH2108/SEREJA21/blob/main/Занятие%207/13.%20Модуляции%20QPSK%2C%20QAM.%20Раздельный%20приём%20и%20передача%20на%20SDR/Принимаемый%20сигнал.jpg">
 </details>
 
 ### Принятая звезда:
