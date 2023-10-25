@@ -30,5 +30,12 @@
 
 > [11. Передача/прием sin() сигнала. Реализация АМ модуляции. PlutoSDR.](https://humble-ballcap-e09.notion.site/11-sin-PlutoSDR-33d96c13fe9142c3bdceb2ede48f7a50?pvs=25)
 
+## Занятие 7:
+
+> [12. Комплексное НЧ представление сигналов. Цифровая КАМ модуляция. ](https://humble-ballcap-e09.notion.site/12-83c5c0afd4d6469d8d40becd87874dc8?pvs=25)
+
+> [13. Модуляции QPSK, QAM. Раздельный приём и передача на SDR](https://humble-ballcap-e09.notion.site/13-QPSK-QAM-SDR-6928d03094d34fc895a4ab49dfed48ec?pvs=25)
+
+
 
 
